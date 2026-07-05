@@ -111,7 +111,7 @@
 ---
 ##  Currently Working On
 
-🚧 **Art Website**
+ **Art Website**
 
 > A personal art portfolio and commission platform where users can browse artwork and request custom pieces.
 
