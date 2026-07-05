@@ -67,6 +67,8 @@
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -93,7 +95,19 @@
 ###
 
 ---
+## College Featured Projects
 
+| Project | Description |
+|---------|-------------|
+| 🌦 **Weather Application** | Weather app using the OpenWeatherMap API with forecasts and recommendations. |
+| 🤖 **Deep Learning** | CNNs, neural networks, training, validation and performance evaluation. |
+| 🥽 **Extended Reality** | Unity AR/VR projects including object tracking and hand interactions. |
+| 💾 **Information Management** | Relational SQL database following normalization and design principles. |
+| 🧠 **Knowledge Engineering** | XML, XSD, XPath and PHP projects. |
+
+➡️ **See all projects here:** **[College GitHub Projects](https://github.com/aneobyrne/TrinityCollegeObyrnean)**
+
+---
 
 
 
