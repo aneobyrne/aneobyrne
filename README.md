@@ -48,7 +48,7 @@
 ```txt
 🎓 B.A.I. Computer Engineering @ Trinity College Dublin
 
-📍 Based in Netherlands
+📍 Based in The Netherlands
 
  Currently learning:
 → App Development
