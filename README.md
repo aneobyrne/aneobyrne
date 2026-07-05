@@ -134,7 +134,7 @@
 </div> 
 
 <!-- Snake Game -->
-<img data-importer="snake" src="https://raw.githubusercontent.com/aneobyrne/aneobyrne/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/aneobyrne/aneobyrne/snake-output/snake.svg" alt="Snake animation" align="center"/>
 
 ---
 
