@@ -136,4 +136,12 @@
 <!-- Snake Game -->
 <img data-importer="snake" src="https://raw.githubusercontent.com/aneobyrne/aneobyrne/snake-output/snake.svg" alt="Snake animation" />
 
+---
+
+## Thanks for Visiting!
+
+If any of my projects interest you, feel free to connect or reach out!
+
+⭐ Don't forget to check out my repositories!
+
 
