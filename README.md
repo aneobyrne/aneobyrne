@@ -99,11 +99,12 @@
 
 | Project | Description |
 |---------|-------------|
-| 🌦 **Weather Application** | Weather app using the OpenWeatherMap API with forecasts and recommendations. |
-| 🤖 **Deep Learning** | CNNs, neural networks, training, validation and performance evaluation. |
-| 🥽 **Extended Reality** | Unity AR/VR projects including object tracking and hand interactions. |
-| 💾 **Information Management** | Relational SQL database following normalization and design principles. |
-| 🧠 **Knowledge Engineering** | XML, XSD, XPath and PHP projects. |
+|  **Weather Application** | Weather app using the OpenWeatherMap API with forecasts and recommendations. |
+|  **Deep Learning** | CNNs, neural networks, training, validation and performance evaluation. |
+|  **Extended Reality** | Unity AR/VR projects including object tracking and hand interactions. |
+|  **Information Management** | Relational SQL database following normalization and design principles. |
+|  **Knowledge Engineering** | XML, XSD, XPath and PHP projects. |
+|  **FYP** | Serious Games and Interactive Storytelling: A Driving Case Study Prototype. |
 
 ➡️ **See all projects here:** **[College GitHub Projects](https://github.com/aneobyrne/TrinityCollegeObyrnean)**
 
