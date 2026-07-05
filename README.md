@@ -109,7 +109,23 @@
 ➡️ **See all projects here:** **[College GitHub Projects](https://github.com/aneobyrne/TrinityCollegeObyrnean)**
 
 ---
+##  Currently Working On
 
+🚧 **Art Website**
+
+> A personal art portfolio and commission platform where users can browse artwork and request custom pieces.
+
+🔗 Repository: [LINK](https://github.com/aneobyrne/DreamWaveWEb)
+
+---
+
+ **FindPaws App**
+
+> A social mobile app that helps our furry friends meet, making it easy for them to chat, plan events, join and meet one another in an easier way.
+
+🔗 Repository: [LINK](https://github.com/aneobyrne/FindPawApp)
+
+---
 
 
 <!-- Stats -->
